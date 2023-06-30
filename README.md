@@ -1,5 +1,5 @@
-About my Studies
-+++++++++++++++++
+<b>About my Studies</b>
+
 
 This is my pledge as i learn at Carnegie Training Institute (https://www.cti.co.ke)
 
